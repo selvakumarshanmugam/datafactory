@@ -1,0 +1,9 @@
+{
+	"name": "selvapac-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a9e967f-0a9c-4da1-baf6-df1e3c47be04",
+		"tenantId": "7c3cac92-31e4-4445-827f-e6819f736f0b"
+	}
+}
